@@ -1,0 +1,106 @@
+
+#webpage_name{
+    margin-top: 60px;
+    margin-left: 150px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.nav{
+    width: 1500px;
+    position: absolute;
+    height: 50px;
+    background-color: black;
+    margin-top: 40px;
+    display: inline-block;
+}
+#home{
+    display: inline-block;
+    margin-left: 10px;
+}
+#blogs{
+    display: inline-block;
+    margin-left: 300px;
+}
+#about{
+    display: inline-block;
+    margin-left: 300px;
+}
+#history{
+    display: inline-block;
+    margin-left: 290px;
+}
+#contacts{
+    display: inline-block;
+    margin-left: 290px;
+
+}
+
+#one{
+    width: 900px;
+    height: 600px;
+    margin-left: 150px;
+    margin-top: 90px;
+    display: inline-block;
+    position: relative;
+}
+#two{
+
+    position: absolute;
+    width: 300px;
+    height: 600px;
+    margin-top: 90px;
+    display: inline-block;
+}
+
+h2{
+    font-size: 30px;
+    padding: 5px;
+}
+
+
+#first_ph{
+    width: 149px;
+    height: 149px;
+    display: flex;
+    float: right;
+}
+
+#second_ph{
+    width: 149px;
+    height: 149px;
+    display: flex;
+}
+#third_ph{
+    width: 149px;
+    height: 149px;
+    display: flex;
+    float: right;
+}
+
+#fourth_ph{
+    width: 149px;
+    height: 149px;
+    display: flex;
+    float: right;
+}
+
+#fiveth_ph{
+    width: 149px;
+    height: 149px;
+}
+
+
+a:link{
+    color: white;
+}
+#first_blog
+{
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+
+p{
+    font-size: 24px;
+    margin-left: 20px;
+}
